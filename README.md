@@ -13,4 +13,10 @@ main.exe - programme<br>
 或<br>
 將main.cpp複製到www.cpp.sh, 然後按compile<br>
 
+
+first type the amount of character of the id(exclude -)<br>
+then type the id(exclude -)<br>
+then you will get a line of numbers and a number<br>
+mark them down (separate two data)<br>
+<br>
 ~tartoor
